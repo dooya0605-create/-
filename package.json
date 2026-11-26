@@ -1,1 +1,16 @@
-{"name":"teok-eopsi","version":"1.0.0","private":true,"description":"경상남도 사천시 휠체어 접근성 지도 MVP","engines":{"node":">=20.6.0"},"scripts":{"start":"node --env-file=.env server.js"},"dependencies":{"express":"^4.21.2"}}
+{
+  "name": "teok-eopsi-masanhappo-demo",
+  "version": "1.1.0",
+  "private": true,
+  "description": "마산합포구 접근성 길찾기 시연용 웹 프로토타입",
+  "engines": {
+    "node": ">=20.6.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
