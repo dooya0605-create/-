@@ -1,0 +1,1 @@
+{"name":"teok-eopsi","version":"1.0.0","private":true,"description":"경상남도 사천시 휠체어 접근성 지도 MVP","engines":{"node":">=20.6.0"},"scripts":{"start":"node --env-file=.env server.js"},"dependencies":{"express":"^4.21.2"}}
